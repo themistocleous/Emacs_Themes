@@ -7,4 +7,5 @@ then choose  haris.
 Alternatively,  you may  add (load-theme  'haris t)  in your
 .emacs.
 
-![screenshot](https://github.com/themistocleous/Haris_Theme/screenshot.png?raw=true)
+![screenshot](https://github.com/themistocleous/Haris_Theme/blob/master/ScreenShot.png?raw=true)
+
