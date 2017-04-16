@@ -1,11 +1,11 @@
-# Using this Theme:
-Add    a    local    directory    to    custome-theme-load-path,    (add-to-list
-'custom-theme-load-path   "~/home/$USER/drop/the/theme/to")    copy   the   file
-haris-theme.el into  the directory. Then  select the them using  M-x load-theme,
-then choose  haris. 
+# Haris Theme
+* To use this theme add    a    local    directory    to    custome-theme-load-path,    
 
-Alternatively,  you may  add (load-theme  'haris t)  in your
-.emacs.
+(add-to-list 'custom-theme-load-path   "~/home/$USER/drop/the/theme/to")    
+
+* Copy   the   file haris-theme.el into  the directory and from your Emacs select the theme M-x load-theme, and  haris. 
+
+* Alternatively,  you may  add (load-theme  'haris t)  in your .emacs.
 
 ![screenshot](https://github.com/themistocleous/Haris_Theme/blob/master/ScreenShot.png?raw=true)
 
