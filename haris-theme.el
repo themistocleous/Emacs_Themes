@@ -1,7 +1,7 @@
 ;; Haris Theme
 ;;
 ;; MIT License Copyright (c) 2008 JD Huntington <jdhuntington at gmail dot com>
-;; Credits due to the Blackboard theme for Emacs. 
+;; Credits to the Blackboard theme for Emacs. 
 
 
 ;; Using this Theme:
